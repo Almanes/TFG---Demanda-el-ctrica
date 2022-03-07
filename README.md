@@ -6,6 +6,7 @@ extremadamente complicado almacenarla, sobre todo cuando se trata de almacenar g
 cantidades de energía. Lo ideal es generarla e instantáneamente después consumirla, por lo 
 que se debería predecir el consumo de electricidad, para así ser capaz de adaptarse y generar 
 la cantidad de electricidad necesaria para que no haya pérdidas. 
+/n
 Para abordar este problema de demanda eléctrica, y con el objetivo de predecir el precio 
 de la electricidad para un espacio de tiempo concreto, se han analizado y limpiado una serie de 
 datos relacionados con las diferentes formas de generar energía y con las condiciones 
